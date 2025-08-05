@@ -20,4 +20,4 @@ This project simulates a traffic light controller for a 4-way intersection using
 - FPGA Board: Xilinx Spartan (example)
 
 ## Author
-Generated with help from ChatGPT.
+Sumonta Kolley
